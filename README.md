@@ -1,2 +1,8 @@
 # naive_bayes
-load read me
+### implemented by nabeerdar
+
+use this command
+```
+git push
+```
+
